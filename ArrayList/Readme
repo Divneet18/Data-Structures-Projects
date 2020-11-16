@@ -1,1 +1,1 @@
-
+In Programming Assignment, you will implement a data structure similar to Java's ArrayList and create JUnit tests to verify proper operation and implementation. In order to implement MyArrayList, you will implement the MyList interface and additional methods. You will use existing JUnit tests and also write your own JUnit tests to test your implementation of the MyArrayList.
