@@ -1,10 +1,4 @@
-/**
-* File MyArrayList. Defines methods for our custom ArrayList
-*
-* Name: Divneet Kaur
-* ID: A15983294 / cs12sp20auq
-* Email: dikaur@ucsd.edu
-*/
+
 
 /**
 * MyArrayList class is used to have methods like insert, remove, get, set
